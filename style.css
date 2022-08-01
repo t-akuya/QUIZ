@@ -35,7 +35,6 @@ ol.answers li:hover {
 
 span#correct-answer {
   font-weight: bold;
-  color: #f05959;
 }
 
 ol.others-answer {
